@@ -10,8 +10,8 @@ Feature: success
     Then Wait 2 seconds
     Then Click to element "konumugüncelle"
     Then Wait 2 seconds
-    Then Click to element "closebutton"
     Then Wait 2 seconds
+    Then Click to element "closebutton"
 
   @failll
   Scenario: failll
